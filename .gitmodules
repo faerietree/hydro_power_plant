@@ -1,0 +1,6 @@
+[submodule "waterwheel"]
+	path = waterwheel
+	url = https://github.com/faerietree/waterwheel.git
+[submodule "electronic_load_controller"]
+	path = electronic_load_controller
+	url = https://github.com/faerietree/electronic_load_controller.git
